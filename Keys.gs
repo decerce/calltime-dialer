@@ -1,3 +1,5 @@
+// This file contains sensitive information. Keep it safe and don't share this spreadsheet without clearing the variables that you enter below.
+
 var ACCOUNT_SID = 'PLACEHOLDER_SID' // Put your Twilio Account SID here between '' apostrophes
 var AUTH_TOKEN = 'PLACEHOLDER_TOKEN' // Put your Twilio Auth Token here between '' apostrophes
 var VOICEMAIL_RECORDING = 'PLACEHOLDER_LINK' // Put your voicemail recording link here between '' apostrophes and put the length, in seconds, of the recording in cell A4
